@@ -1,0 +1,11 @@
+C:\Users\carloscornejo\source\repos\colaYpilas\BoxingYUnboxing\bin\Debug\netcoreapp2.2\BoxingYUnboxing.deps.json
+C:\Users\carloscornejo\source\repos\colaYpilas\BoxingYUnboxing\bin\Debug\netcoreapp2.2\BoxingYUnboxing.runtimeconfig.json
+C:\Users\carloscornejo\source\repos\colaYpilas\BoxingYUnboxing\bin\Debug\netcoreapp2.2\BoxingYUnboxing.runtimeconfig.dev.json
+C:\Users\carloscornejo\source\repos\colaYpilas\BoxingYUnboxing\bin\Debug\netcoreapp2.2\BoxingYUnboxing.dll
+C:\Users\carloscornejo\source\repos\colaYpilas\BoxingYUnboxing\bin\Debug\netcoreapp2.2\BoxingYUnboxing.pdb
+C:\Users\carloscornejo\source\repos\colaYpilas\BoxingYUnboxing\obj\Debug\netcoreapp2.2\BoxingYUnboxing.csprojAssemblyReference.cache
+C:\Users\carloscornejo\source\repos\colaYpilas\BoxingYUnboxing\obj\Debug\netcoreapp2.2\BoxingYUnboxing.csproj.CoreCompileInputs.cache
+C:\Users\carloscornejo\source\repos\colaYpilas\BoxingYUnboxing\obj\Debug\netcoreapp2.2\BoxingYUnboxing.AssemblyInfoInputs.cache
+C:\Users\carloscornejo\source\repos\colaYpilas\BoxingYUnboxing\obj\Debug\netcoreapp2.2\BoxingYUnboxing.AssemblyInfo.cs
+C:\Users\carloscornejo\source\repos\colaYpilas\BoxingYUnboxing\obj\Debug\netcoreapp2.2\BoxingYUnboxing.dll
+C:\Users\carloscornejo\source\repos\colaYpilas\BoxingYUnboxing\obj\Debug\netcoreapp2.2\BoxingYUnboxing.pdb

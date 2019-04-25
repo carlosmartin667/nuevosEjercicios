@@ -1,0 +1,11 @@
+C:\Users\carloscornejo\source\repos\colaYpilas\colaYpilas\bin\Debug\netcoreapp2.2\colaYpilas.deps.json
+C:\Users\carloscornejo\source\repos\colaYpilas\colaYpilas\bin\Debug\netcoreapp2.2\colaYpilas.runtimeconfig.json
+C:\Users\carloscornejo\source\repos\colaYpilas\colaYpilas\bin\Debug\netcoreapp2.2\colaYpilas.runtimeconfig.dev.json
+C:\Users\carloscornejo\source\repos\colaYpilas\colaYpilas\bin\Debug\netcoreapp2.2\colaYpilas.dll
+C:\Users\carloscornejo\source\repos\colaYpilas\colaYpilas\bin\Debug\netcoreapp2.2\colaYpilas.pdb
+C:\Users\carloscornejo\source\repos\colaYpilas\colaYpilas\obj\Debug\netcoreapp2.2\colaYpilas.csprojAssemblyReference.cache
+C:\Users\carloscornejo\source\repos\colaYpilas\colaYpilas\obj\Debug\netcoreapp2.2\colaYpilas.csproj.CoreCompileInputs.cache
+C:\Users\carloscornejo\source\repos\colaYpilas\colaYpilas\obj\Debug\netcoreapp2.2\colaYpilas.AssemblyInfoInputs.cache
+C:\Users\carloscornejo\source\repos\colaYpilas\colaYpilas\obj\Debug\netcoreapp2.2\colaYpilas.AssemblyInfo.cs
+C:\Users\carloscornejo\source\repos\colaYpilas\colaYpilas\obj\Debug\netcoreapp2.2\colaYpilas.dll
+C:\Users\carloscornejo\source\repos\colaYpilas\colaYpilas\obj\Debug\netcoreapp2.2\colaYpilas.pdb

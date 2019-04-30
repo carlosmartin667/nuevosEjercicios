@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Interfaz
 {
-  class Perro: baseAnimal,Carnivoro,Hervivoro
+  class Perro: baseAnimal,ICarnivoro
 
   {
 
@@ -14,10 +14,7 @@ namespace Interfaz
       carne = "carne";
     }
 
-    public void comerP(string pasto)
-    {
-      pasto = "pasto";
-    }
+  
 
     public string raza { get; set; }
   }

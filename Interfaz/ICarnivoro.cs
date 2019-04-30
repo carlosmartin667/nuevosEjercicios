@@ -4,8 +4,8 @@ using System.Text;
 
 namespace Interfaz
 {
-  interface Hervivoro
+  interface ICarnivoro
   {
-    void comerP(string pasto);
+    void comerC(string carne);
   }
 }

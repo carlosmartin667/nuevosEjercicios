@@ -2,14 +2,10 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-
 namespace Interfaz
 {
-  interface Animal
+  interface IHervivoro
   {
-    void caminar();
-    void crecer();
-    void reproducirce();
-
+    void comerP(string pasto);
   }
 }

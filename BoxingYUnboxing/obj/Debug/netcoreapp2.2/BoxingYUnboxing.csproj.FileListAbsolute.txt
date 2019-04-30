@@ -9,3 +9,14 @@ C:\Users\carloscornejo\source\repos\colaYpilas\BoxingYUnboxing\obj\Debug\netcore
 C:\Users\carloscornejo\source\repos\colaYpilas\BoxingYUnboxing\obj\Debug\netcoreapp2.2\BoxingYUnboxing.AssemblyInfo.cs
 C:\Users\carloscornejo\source\repos\colaYpilas\BoxingYUnboxing\obj\Debug\netcoreapp2.2\BoxingYUnboxing.dll
 C:\Users\carloscornejo\source\repos\colaYpilas\BoxingYUnboxing\obj\Debug\netcoreapp2.2\BoxingYUnboxing.pdb
+C:\GitHubRepos\ejercicios2\BoxingYUnboxing\bin\Debug\netcoreapp2.2\BoxingYUnboxing.deps.json
+C:\GitHubRepos\ejercicios2\BoxingYUnboxing\bin\Debug\netcoreapp2.2\BoxingYUnboxing.runtimeconfig.json
+C:\GitHubRepos\ejercicios2\BoxingYUnboxing\bin\Debug\netcoreapp2.2\BoxingYUnboxing.runtimeconfig.dev.json
+C:\GitHubRepos\ejercicios2\BoxingYUnboxing\bin\Debug\netcoreapp2.2\BoxingYUnboxing.dll
+C:\GitHubRepos\ejercicios2\BoxingYUnboxing\bin\Debug\netcoreapp2.2\BoxingYUnboxing.pdb
+C:\GitHubRepos\ejercicios2\BoxingYUnboxing\obj\Debug\netcoreapp2.2\BoxingYUnboxing.csprojAssemblyReference.cache
+C:\GitHubRepos\ejercicios2\BoxingYUnboxing\obj\Debug\netcoreapp2.2\BoxingYUnboxing.csproj.CoreCompileInputs.cache
+C:\GitHubRepos\ejercicios2\BoxingYUnboxing\obj\Debug\netcoreapp2.2\BoxingYUnboxing.AssemblyInfoInputs.cache
+C:\GitHubRepos\ejercicios2\BoxingYUnboxing\obj\Debug\netcoreapp2.2\BoxingYUnboxing.AssemblyInfo.cs
+C:\GitHubRepos\ejercicios2\BoxingYUnboxing\obj\Debug\netcoreapp2.2\BoxingYUnboxing.dll
+C:\GitHubRepos\ejercicios2\BoxingYUnboxing\obj\Debug\netcoreapp2.2\BoxingYUnboxing.pdb

@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Interfaz
 {
-  class Leon:baseAnimal,Carnivoro
+  class Leon:baseAnimal,ICarnivoro
   {
     public void comerC(string carne)
     {

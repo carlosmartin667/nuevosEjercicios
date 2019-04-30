@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Interfaz
 {
-  class Oveja : baseAnimal,Hervivoro
+  class Oveja : baseAnimal,IHervivoro
   {
 
     public void comerP(string pasto)

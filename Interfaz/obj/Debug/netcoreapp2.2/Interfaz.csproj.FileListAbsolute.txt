@@ -1,0 +1,11 @@
+C:\GitHubRepos\ejercicios2\Interfaz\obj\Debug\netcoreapp2.2\Interfaz.csprojAssemblyReference.cache
+C:\GitHubRepos\ejercicios2\Interfaz\obj\Debug\netcoreapp2.2\Interfaz.csproj.CoreCompileInputs.cache
+C:\GitHubRepos\ejercicios2\Interfaz\obj\Debug\netcoreapp2.2\Interfaz.AssemblyInfoInputs.cache
+C:\GitHubRepos\ejercicios2\Interfaz\obj\Debug\netcoreapp2.2\Interfaz.AssemblyInfo.cs
+C:\GitHubRepos\ejercicios2\Interfaz\bin\Debug\netcoreapp2.2\Interfaz.deps.json
+C:\GitHubRepos\ejercicios2\Interfaz\bin\Debug\netcoreapp2.2\Interfaz.runtimeconfig.json
+C:\GitHubRepos\ejercicios2\Interfaz\bin\Debug\netcoreapp2.2\Interfaz.runtimeconfig.dev.json
+C:\GitHubRepos\ejercicios2\Interfaz\bin\Debug\netcoreapp2.2\Interfaz.dll
+C:\GitHubRepos\ejercicios2\Interfaz\bin\Debug\netcoreapp2.2\Interfaz.pdb
+C:\GitHubRepos\ejercicios2\Interfaz\obj\Debug\netcoreapp2.2\Interfaz.dll
+C:\GitHubRepos\ejercicios2\Interfaz\obj\Debug\netcoreapp2.2\Interfaz.pdb

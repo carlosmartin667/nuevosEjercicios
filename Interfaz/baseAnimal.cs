@@ -6,7 +6,7 @@ using System.Threading;
 using System.Collections;
 namespace Interfaz
 {
-  class baseAnimal : Animal
+  class baseAnimal : IAnimal
   {
     public void caminar()
     {

@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\carloscornejo\\source\\repos\\colaYpilas\\diccionario\\diccionario.csproj",
+      "projectUniqueName": "C:\\GitHubRepos\\ejercicios2\\diccionario\\diccionario.csproj",
       "projectName": "diccionario",
-      "projectPath": "C:\\Users\\carloscornejo\\source\\repos\\colaYpilas\\diccionario\\diccionario.csproj",
+      "projectPath": "C:\\GitHubRepos\\ejercicios2\\diccionario\\diccionario.csproj",
       "packagesPath": "C:\\Users\\carloscornejo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\carloscornejo\\source\\repos\\colaYpilas\\diccionario\\obj\\",
+      "outputPath": "C:\\GitHubRepos\\ejercicios2\\diccionario\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

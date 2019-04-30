@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\carloscornejo\\source\\repos\\colaYpilas\\colaYpilas\\colaYpilas.csproj",
+      "projectUniqueName": "C:\\GitHubRepos\\ejercicios2\\colaYpilas\\colaYpilas.csproj",
       "projectName": "colaYpilas",
-      "projectPath": "C:\\Users\\carloscornejo\\source\\repos\\colaYpilas\\colaYpilas\\colaYpilas.csproj",
+      "projectPath": "C:\\GitHubRepos\\ejercicios2\\colaYpilas\\colaYpilas.csproj",
       "packagesPath": "C:\\Users\\carloscornejo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\carloscornejo\\source\\repos\\colaYpilas\\colaYpilas\\obj\\",
+      "outputPath": "C:\\GitHubRepos\\ejercicios2\\colaYpilas\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

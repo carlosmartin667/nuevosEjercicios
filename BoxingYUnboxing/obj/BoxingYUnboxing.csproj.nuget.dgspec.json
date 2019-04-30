@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\carloscornejo\\source\\repos\\colaYpilas\\BoxingYUnboxing\\BoxingYUnboxing.csproj": {}
+    "C:\\GitHubRepos\\ejercicios2\\BoxingYUnboxing\\BoxingYUnboxing.csproj": {}
   },
   "projects": {
-    "C:\\Users\\carloscornejo\\source\\repos\\colaYpilas\\BoxingYUnboxing\\BoxingYUnboxing.csproj": {
+    "C:\\GitHubRepos\\ejercicios2\\BoxingYUnboxing\\BoxingYUnboxing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\carloscornejo\\source\\repos\\colaYpilas\\BoxingYUnboxing\\BoxingYUnboxing.csproj",
+        "projectUniqueName": "C:\\GitHubRepos\\ejercicios2\\BoxingYUnboxing\\BoxingYUnboxing.csproj",
         "projectName": "BoxingYUnboxing",
-        "projectPath": "C:\\Users\\carloscornejo\\source\\repos\\colaYpilas\\BoxingYUnboxing\\BoxingYUnboxing.csproj",
+        "projectPath": "C:\\GitHubRepos\\ejercicios2\\BoxingYUnboxing\\BoxingYUnboxing.csproj",
         "packagesPath": "C:\\Users\\carloscornejo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\carloscornejo\\source\\repos\\colaYpilas\\BoxingYUnboxing\\obj\\",
+        "outputPath": "C:\\GitHubRepos\\ejercicios2\\BoxingYUnboxing\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

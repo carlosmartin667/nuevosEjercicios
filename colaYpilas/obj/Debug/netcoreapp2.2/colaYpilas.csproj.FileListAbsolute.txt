@@ -9,3 +9,14 @@ C:\Users\carloscornejo\source\repos\colaYpilas\colaYpilas\obj\Debug\netcoreapp2.
 C:\Users\carloscornejo\source\repos\colaYpilas\colaYpilas\obj\Debug\netcoreapp2.2\colaYpilas.AssemblyInfo.cs
 C:\Users\carloscornejo\source\repos\colaYpilas\colaYpilas\obj\Debug\netcoreapp2.2\colaYpilas.dll
 C:\Users\carloscornejo\source\repos\colaYpilas\colaYpilas\obj\Debug\netcoreapp2.2\colaYpilas.pdb
+C:\GitHubRepos\ejercicios2\colaYpilas\bin\Debug\netcoreapp2.2\colaYpilas.deps.json
+C:\GitHubRepos\ejercicios2\colaYpilas\bin\Debug\netcoreapp2.2\colaYpilas.runtimeconfig.json
+C:\GitHubRepos\ejercicios2\colaYpilas\bin\Debug\netcoreapp2.2\colaYpilas.runtimeconfig.dev.json
+C:\GitHubRepos\ejercicios2\colaYpilas\bin\Debug\netcoreapp2.2\colaYpilas.dll
+C:\GitHubRepos\ejercicios2\colaYpilas\bin\Debug\netcoreapp2.2\colaYpilas.pdb
+C:\GitHubRepos\ejercicios2\colaYpilas\obj\Debug\netcoreapp2.2\colaYpilas.csprojAssemblyReference.cache
+C:\GitHubRepos\ejercicios2\colaYpilas\obj\Debug\netcoreapp2.2\colaYpilas.csproj.CoreCompileInputs.cache
+C:\GitHubRepos\ejercicios2\colaYpilas\obj\Debug\netcoreapp2.2\colaYpilas.AssemblyInfoInputs.cache
+C:\GitHubRepos\ejercicios2\colaYpilas\obj\Debug\netcoreapp2.2\colaYpilas.AssemblyInfo.cs
+C:\GitHubRepos\ejercicios2\colaYpilas\obj\Debug\netcoreapp2.2\colaYpilas.dll
+C:\GitHubRepos\ejercicios2\colaYpilas\obj\Debug\netcoreapp2.2\colaYpilas.pdb

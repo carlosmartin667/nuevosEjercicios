@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BoxingYUnboxing", "BoxingYU
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "diccionario", "diccionario\diccionario.csproj", "{2F4AA30F-1879-4F51-9EF3-CFC0ABC8B5FD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaz", "Interfaz\Interfaz.csproj", "{5401B38F-D127-4F6A-9B7F-5080458C5A11}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interfaz", "Interfaz\Interfaz.csproj", "{5401B38F-D127-4F6A-9B7F-5080458C5A11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseDatos2", "BaseDatos2\BaseDatos2.csproj", "{0A45C7EC-0DF8-4019-9395-A8CDAD87B96F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{5401B38F-D127-4F6A-9B7F-5080458C5A11}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5401B38F-D127-4F6A-9B7F-5080458C5A11}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5401B38F-D127-4F6A-9B7F-5080458C5A11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A45C7EC-0DF8-4019-9395-A8CDAD87B96F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A45C7EC-0DF8-4019-9395-A8CDAD87B96F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A45C7EC-0DF8-4019-9395-A8CDAD87B96F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A45C7EC-0DF8-4019-9395-A8CDAD87B96F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

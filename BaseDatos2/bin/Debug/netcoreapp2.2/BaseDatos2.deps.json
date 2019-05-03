@@ -24,6 +24,8 @@
     ".NETCoreApp,Version=v2.2": {
       "BaseDatos2/1.0.0": {
         "dependencies": {
+          "CapaEntidad": "1.0.0",
+          "CapaNegocio": "1.0.0",
           "Microsoft.AspNetCore.App": "2.2.0",
           "Microsoft.AspNetCore.Razor.Design": "2.2.0",
           "Microsoft.NETCore.App": "2.2.0"
@@ -33,6 +35,37 @@
         },
         "compile": {
           "BaseDatos2.dll": {}
+        }
+      },
+      "CapaDatos1/1.0.0": {
+        "dependencies": {
+          "CapaEntidad": "1.0.0"
+        },
+        "runtime": {
+          "CapaDatos1.dll": {}
+        },
+        "compile": {
+          "CapaDatos1.dll": {}
+        }
+      },
+      "CapaEntidad/1.0.0": {
+        "runtime": {
+          "CapaEntidad.dll": {}
+        },
+        "compile": {
+          "CapaEntidad.dll": {}
+        }
+      },
+      "CapaNegocio/1.0.0": {
+        "dependencies": {
+          "CapaDatos1": "1.0.0",
+          "CapaEntidad": "1.0.0"
+        },
+        "runtime": {
+          "CapaNegocio.dll": {}
+        },
+        "compile": {
+          "CapaNegocio.dll": {}
         }
       },
       "Microsoft.AspNet.WebApi.Client/5.2.6": {
@@ -3233,6 +3266,21 @@
   },
   "libraries": {
     "BaseDatos2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CapaDatos1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CapaEntidad/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CapaNegocio/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

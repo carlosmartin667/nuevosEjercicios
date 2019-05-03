@@ -1,0 +1,6 @@
+C:\GitHubRepos\ejercicios2\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\GitHubRepos\ejercicios2\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\GitHubRepos\ejercicios2\CapaEntidad\obj\Debug\CapaEntidad.csprojAssemblyReference.cache
+C:\GitHubRepos\ejercicios2\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\GitHubRepos\ejercicios2\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\GitHubRepos\ejercicios2\CapaEntidad\obj\Debug\CapaEntidad.pdb

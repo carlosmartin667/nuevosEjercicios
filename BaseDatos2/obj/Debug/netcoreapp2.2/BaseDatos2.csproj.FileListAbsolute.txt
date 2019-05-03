@@ -28,3 +28,9 @@ C:\GitHubRepos\ejercicios2\BaseDatos2\obj\Debug\netcoreapp2.2\BaseDatos2.Views.p
 C:\GitHubRepos\ejercicios2\BaseDatos2\obj\Debug\netcoreapp2.2\BaseDatos2.dll
 C:\GitHubRepos\ejercicios2\BaseDatos2\obj\Debug\netcoreapp2.2\BaseDatos2.pdb
 C:\GitHubRepos\ejercicios2\BaseDatos2\obj\Debug\netcoreapp2.2\BaseDatos2.csproj.CopyComplete
+C:\GitHubRepos\ejercicios2\BaseDatos2\bin\Debug\netcoreapp2.2\CapaDatos1.dll
+C:\GitHubRepos\ejercicios2\BaseDatos2\bin\Debug\netcoreapp2.2\CapaEntidad.dll
+C:\GitHubRepos\ejercicios2\BaseDatos2\bin\Debug\netcoreapp2.2\CapaNegocio.dll
+C:\GitHubRepos\ejercicios2\BaseDatos2\bin\Debug\netcoreapp2.2\CapaEntidad.pdb
+C:\GitHubRepos\ejercicios2\BaseDatos2\bin\Debug\netcoreapp2.2\CapaNegocio.pdb
+C:\GitHubRepos\ejercicios2\BaseDatos2\bin\Debug\netcoreapp2.2\CapaDatos1.pdb

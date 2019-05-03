@@ -1,5 +1,7 @@
 ﻿@{
     ViewData["Title"] = "Home Page";
+    var emp = new CapaNegocio.N_empleados();
+    var empleados = emp.N_listado();
 }
 
 <div class="text-center">
@@ -20,6 +22,7 @@
     <tbody>
         <tr>
             <th scope="row"></th>
+            @empleados
        
      
         </tr>

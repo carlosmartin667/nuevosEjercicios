@@ -1,0 +1,9 @@
+C:\GitHubRepos\ejercicios2\CapaDatos1\bin\Debug\CapaDatos1.dll
+C:\GitHubRepos\ejercicios2\CapaDatos1\bin\Debug\CapaDatos1.pdb
+C:\GitHubRepos\ejercicios2\CapaDatos1\bin\Debug\CapaEntidad.dll
+C:\GitHubRepos\ejercicios2\CapaDatos1\bin\Debug\CapaEntidad.pdb
+C:\GitHubRepos\ejercicios2\CapaDatos1\obj\Debug\CapaDatos1.csprojAssemblyReference.cache
+C:\GitHubRepos\ejercicios2\CapaDatos1\obj\Debug\CapaDatos1.csproj.CoreCompileInputs.cache
+C:\GitHubRepos\ejercicios2\CapaDatos1\obj\Debug\CapaDatos1.csproj.CopyComplete
+C:\GitHubRepos\ejercicios2\CapaDatos1\obj\Debug\CapaDatos1.dll
+C:\GitHubRepos\ejercicios2\CapaDatos1\obj\Debug\CapaDatos1.pdb

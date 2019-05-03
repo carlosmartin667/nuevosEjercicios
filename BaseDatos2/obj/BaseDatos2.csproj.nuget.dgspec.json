@@ -29,7 +29,14 @@
         },
         "frameworks": {
           "netcoreapp2.2": {
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\GitHubRepos\\ejercicios2\\CapaEntidad\\CapaEntidad.csproj": {
+                "projectPath": "C:\\GitHubRepos\\ejercicios2\\CapaEntidad\\CapaEntidad.csproj"
+              },
+              "C:\\GitHubRepos\\ejercicios2\\CapaNegocio\\CapaNegocio.csproj": {
+                "projectPath": "C:\\GitHubRepos\\ejercicios2\\CapaNegocio\\CapaNegocio.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -65,6 +72,60 @@
           "assetTargetFallback": true,
           "warn": true
         }
+      }
+    },
+    "C:\\GitHubRepos\\ejercicios2\\CapaDatos1\\CapaDatos1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\GitHubRepos\\ejercicios2\\CapaDatos1\\CapaDatos1.csproj",
+        "projectName": "CapaDatos1",
+        "projectPath": "C:\\GitHubRepos\\ejercicios2\\CapaDatos1\\CapaDatos1.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\GitHubRepos\\ejercicios2\\CapaEntidad\\CapaEntidad.csproj": {
+                "projectPath": "C:\\GitHubRepos\\ejercicios2\\CapaEntidad\\CapaEntidad.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\GitHubRepos\\ejercicios2\\CapaEntidad\\CapaEntidad.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\GitHubRepos\\ejercicios2\\CapaEntidad\\CapaEntidad.csproj",
+        "projectName": "CapaEntidad",
+        "projectPath": "C:\\GitHubRepos\\ejercicios2\\CapaEntidad\\CapaEntidad.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\GitHubRepos\\ejercicios2\\CapaNegocio\\CapaNegocio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\GitHubRepos\\ejercicios2\\CapaNegocio\\CapaNegocio.csproj",
+        "projectName": "CapaNegocio",
+        "projectPath": "C:\\GitHubRepos\\ejercicios2\\CapaNegocio\\CapaNegocio.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\GitHubRepos\\ejercicios2\\CapaDatos1\\CapaDatos1.csproj": {
+                "projectPath": "C:\\GitHubRepos\\ejercicios2\\CapaDatos1\\CapaDatos1.csproj"
+              },
+              "C:\\GitHubRepos\\ejercicios2\\CapaEntidad\\CapaEntidad.csproj": {
+                "projectPath": "C:\\GitHubRepos\\ejercicios2\\CapaEntidad\\CapaEntidad.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
       }
     }
   }

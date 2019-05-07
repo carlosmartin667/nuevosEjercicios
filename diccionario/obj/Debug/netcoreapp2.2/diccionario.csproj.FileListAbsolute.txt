@@ -1,0 +1,8 @@
+C:\GitHubRepos\ejercicios2\diccionario\bin\Debug\netcoreapp2.2\diccionario.deps.json
+C:\GitHubRepos\ejercicios2\diccionario\bin\Debug\netcoreapp2.2\diccionario.runtimeconfig.json
+C:\GitHubRepos\ejercicios2\diccionario\bin\Debug\netcoreapp2.2\diccionario.runtimeconfig.dev.json
+C:\GitHubRepos\ejercicios2\diccionario\bin\Debug\netcoreapp2.2\diccionario.dll
+C:\GitHubRepos\ejercicios2\diccionario\obj\Debug\netcoreapp2.2\diccionario.csprojAssemblyReference.cache
+C:\GitHubRepos\ejercicios2\diccionario\obj\Debug\netcoreapp2.2\diccionario.csproj.CoreCompileInputs.cache
+C:\GitHubRepos\ejercicios2\diccionario\obj\Debug\netcoreapp2.2\diccionario.AssemblyInfoInputs.cache
+C:\GitHubRepos\ejercicios2\diccionario\obj\Debug\netcoreapp2.2\diccionario.AssemblyInfo.cs

@@ -1,0 +1,6 @@
+C:\GitHubRepos\ejercicios2\DbBibliotecaVirtual\obj\Debug\netcoreapp2.2\DbBibliotecaVirtual.csprojAssemblyReference.cache
+C:\GitHubRepos\ejercicios2\DbBibliotecaVirtual\obj\Debug\netcoreapp2.2\DbBibliotecaVirtual.csproj.CoreCompileInputs.cache
+C:\GitHubRepos\ejercicios2\DbBibliotecaVirtual\obj\Debug\netcoreapp2.2\DbBibliotecaVirtual.RazorAssemblyInfo.cache
+C:\GitHubRepos\ejercicios2\DbBibliotecaVirtual\obj\Debug\netcoreapp2.2\DbBibliotecaVirtual.RazorAssemblyInfo.cs
+C:\GitHubRepos\ejercicios2\DbBibliotecaVirtual\obj\Debug\netcoreapp2.2\DbBibliotecaVirtual.AssemblyInfoInputs.cache
+C:\GitHubRepos\ejercicios2\DbBibliotecaVirtual\obj\Debug\netcoreapp2.2\DbBibliotecaVirtual.AssemblyInfo.cs

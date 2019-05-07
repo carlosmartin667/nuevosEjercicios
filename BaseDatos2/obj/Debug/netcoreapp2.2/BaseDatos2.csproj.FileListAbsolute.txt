@@ -34,3 +34,6 @@ C:\GitHubRepos\ejercicios2\BaseDatos2\bin\Debug\netcoreapp2.2\CapaNegocio.dll
 C:\GitHubRepos\ejercicios2\BaseDatos2\bin\Debug\netcoreapp2.2\CapaEntidad.pdb
 C:\GitHubRepos\ejercicios2\BaseDatos2\bin\Debug\netcoreapp2.2\CapaNegocio.pdb
 C:\GitHubRepos\ejercicios2\BaseDatos2\bin\Debug\netcoreapp2.2\CapaDatos1.pdb
+C:\GitHubRepos\ejercicios2\BaseDatos2\bin\Debug\netcoreapp2.2\CapaEntidad.dll.config
+C:\GitHubRepos\ejercicios2\BaseDatos2\bin\Debug\netcoreapp2.2\CapaNegocio.dll.config
+C:\GitHubRepos\ejercicios2\BaseDatos2\bin\Debug\netcoreapp2.2\CapaDatos1.dll.config

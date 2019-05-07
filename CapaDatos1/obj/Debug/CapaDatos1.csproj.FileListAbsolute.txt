@@ -7,3 +7,9 @@ C:\GitHubRepos\ejercicios2\CapaDatos1\obj\Debug\CapaDatos1.csproj.CoreCompileInp
 C:\GitHubRepos\ejercicios2\CapaDatos1\obj\Debug\CapaDatos1.csproj.CopyComplete
 C:\GitHubRepos\ejercicios2\CapaDatos1\obj\Debug\CapaDatos1.dll
 C:\GitHubRepos\ejercicios2\CapaDatos1\obj\Debug\CapaDatos1.pdb
+C:\GitHubRepos\ejercicios2\CapaDatos1\bin\Debug\CapaDatos1.dll.config
+C:\GitHubRepos\ejercicios2\CapaDatos1\bin\Debug\EntityFramework.dll
+C:\GitHubRepos\ejercicios2\CapaDatos1\bin\Debug\EntityFramework.SqlServer.dll
+C:\GitHubRepos\ejercicios2\CapaDatos1\bin\Debug\CapaEntidad.dll.config
+C:\GitHubRepos\ejercicios2\CapaDatos1\bin\Debug\EntityFramework.xml
+C:\GitHubRepos\ejercicios2\CapaDatos1\bin\Debug\EntityFramework.SqlServer.xml

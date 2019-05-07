@@ -9,3 +9,10 @@ C:\GitHubRepos\ejercicios2\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileI
 C:\GitHubRepos\ejercicios2\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
 C:\GitHubRepos\ejercicios2\CapaNegocio\obj\Debug\CapaNegocio.dll
 C:\GitHubRepos\ejercicios2\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\GitHubRepos\ejercicios2\CapaNegocio\bin\Debug\CapaNegocio.dll.config
+C:\GitHubRepos\ejercicios2\CapaNegocio\bin\Debug\EntityFramework.dll
+C:\GitHubRepos\ejercicios2\CapaNegocio\bin\Debug\EntityFramework.SqlServer.dll
+C:\GitHubRepos\ejercicios2\CapaNegocio\bin\Debug\CapaDatos1.dll.config
+C:\GitHubRepos\ejercicios2\CapaNegocio\bin\Debug\CapaEntidad.dll.config
+C:\GitHubRepos\ejercicios2\CapaNegocio\bin\Debug\EntityFramework.xml
+C:\GitHubRepos\ejercicios2\CapaNegocio\bin\Debug\EntityFramework.SqlServer.xml

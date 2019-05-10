@@ -1,0 +1,12 @@
+C:\GitHubRepos\ejercicios2\Biblioteca\bin\Debug\Biblioteca.dll.config
+C:\GitHubRepos\ejercicios2\Biblioteca\bin\Debug\Biblioteca.dll
+C:\GitHubRepos\ejercicios2\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\GitHubRepos\ejercicios2\Biblioteca\bin\Debug\EntityFramework.dll
+C:\GitHubRepos\ejercicios2\Biblioteca\bin\Debug\EntityFramework.SqlServer.dll
+C:\GitHubRepos\ejercicios2\Biblioteca\bin\Debug\EntityFramework.xml
+C:\GitHubRepos\ejercicios2\Biblioteca\bin\Debug\EntityFramework.SqlServer.xml
+C:\GitHubRepos\ejercicios2\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+C:\GitHubRepos\ejercicios2\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\GitHubRepos\ejercicios2\Biblioteca\obj\Debug\Biblioteca.csproj.CopyComplete
+C:\GitHubRepos\ejercicios2\Biblioteca\obj\Debug\Biblioteca.dll
+C:\GitHubRepos\ejercicios2\Biblioteca\obj\Debug\Biblioteca.pdb

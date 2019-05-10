@@ -52,16 +52,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\CapaDatos1\CapaDatos1.csproj">
-      <Project>{2f3696a9-58a1-4ff4-9567-87c87d468f29}</Project>
-      <Name>CapaDatos1</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\CapaEntidad\CapaEntidad.csproj">
-      <Project>{6f8da8f7-a6bd-4598-9668-f64560983e70}</Project>
-      <Name>CapaEntidad</Name>
-    </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>

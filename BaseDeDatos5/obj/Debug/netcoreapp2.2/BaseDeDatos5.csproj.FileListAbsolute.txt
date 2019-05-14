@@ -28,3 +28,8 @@ C:\GitHubRepos\ejercicios2\BaseDeDatos5\obj\Debug\netcoreapp2.2\BaseDeDatos5.dll
 C:\GitHubRepos\ejercicios2\BaseDeDatos5\obj\Debug\netcoreapp2.2\BaseDeDatos5.pdb
 C:\GitHubRepos\ejercicios2\BaseDeDatos5\obj\Debug\netcoreapp2.2\BaseDeDatos5.csproj.CopyComplete
 C:\GitHubRepos\ejercicios2\BaseDeDatos5\obj\Debug\netcoreapp2.2\BaseDeDatos5.csprojAssemblyReference.cache
+C:\GitHubRepos\ejercicios2\BaseDeDatos5\obj\Debug\netcoreapp2.2\Razor\Views\Libroes\Create.g.cshtml.cs
+C:\GitHubRepos\ejercicios2\BaseDeDatos5\obj\Debug\netcoreapp2.2\Razor\Views\Libroes\Delete.g.cshtml.cs
+C:\GitHubRepos\ejercicios2\BaseDeDatos5\obj\Debug\netcoreapp2.2\Razor\Views\Libroes\Details.g.cshtml.cs
+C:\GitHubRepos\ejercicios2\BaseDeDatos5\obj\Debug\netcoreapp2.2\Razor\Views\Libroes\Edit.g.cshtml.cs
+C:\GitHubRepos\ejercicios2\BaseDeDatos5\obj\Debug\netcoreapp2.2\Razor\Views\Libroes\Index.g.cshtml.cs

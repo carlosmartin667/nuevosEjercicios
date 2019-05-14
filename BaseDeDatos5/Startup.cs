@@ -9,6 +9,8 @@ using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using Microsoft.EntityFrameworkCore;
+using BaseDeDatos5.Models;
 
 namespace BaseDeDatos5
 {
@@ -33,10 +35,13 @@ namespace BaseDeDatos5
 
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
+
+            services.AddDbContext<BaseDeDatos5Context>(options =>
+                    options.UseSqlServer(Configuration.GetConnectionString("BaseDeDatos5Context")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
-        public void Configure(IApplicationBuilder app, IHostingEnvironment env)
+        public void Configure(IApplicationBuilder app, IHostingEnvironment env, BaseDeDatos5Context context)
         {
             if (env.IsDevelopment())
             {
@@ -59,6 +64,7 @@ namespace BaseDeDatos5
                     name: "default",
                     template: "{controller=Home}/{action=Index}/{id?}");
             });
+            DbsInicialisador.Inicializar(context);
         }
     }
 }

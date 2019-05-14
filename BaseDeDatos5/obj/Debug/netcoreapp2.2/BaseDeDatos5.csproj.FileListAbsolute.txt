@@ -14,7 +14,6 @@ C:\GitHubRepos\ejercicios2\BaseDeDatos5\obj\Debug\netcoreapp2.2\BaseDeDatos5.Tag
 C:\GitHubRepos\ejercicios2\BaseDeDatos5\obj\Debug\netcoreapp2.2\BaseDeDatos5.TagHelpers.output.cache
 C:\GitHubRepos\ejercicios2\BaseDeDatos5\obj\Debug\netcoreapp2.2\BaseDeDatos5.RazorCoreGenerate.cache
 C:\GitHubRepos\ejercicios2\BaseDeDatos5\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
-C:\GitHubRepos\ejercicios2\BaseDeDatos5\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
 C:\GitHubRepos\ejercicios2\BaseDeDatos5\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
 C:\GitHubRepos\ejercicios2\BaseDeDatos5\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
 C:\GitHubRepos\ejercicios2\BaseDeDatos5\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs

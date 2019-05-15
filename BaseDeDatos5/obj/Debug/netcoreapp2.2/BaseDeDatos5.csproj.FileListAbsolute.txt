@@ -32,3 +32,4 @@ C:\GitHubRepos\ejercicios2\BaseDeDatos5\obj\Debug\netcoreapp2.2\Razor\Views\Libr
 C:\GitHubRepos\ejercicios2\BaseDeDatos5\obj\Debug\netcoreapp2.2\Razor\Views\Libroes\Details.g.cshtml.cs
 C:\GitHubRepos\ejercicios2\BaseDeDatos5\obj\Debug\netcoreapp2.2\Razor\Views\Libroes\Edit.g.cshtml.cs
 C:\GitHubRepos\ejercicios2\BaseDeDatos5\obj\Debug\netcoreapp2.2\Razor\Views\Libroes\Index.g.cshtml.cs
+C:\GitHubRepos\ejercicios2\BaseDeDatos5\obj\Debug\netcoreapp2.2\Razor\Views\Vue\Index.g.cshtml.cs

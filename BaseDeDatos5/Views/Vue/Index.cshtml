@@ -1,0 +1,169 @@
+﻿@model IEnumerable<BaseDeDatos5.Libro>
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+<div id="applibros" class="container">
+    <!-- Formulario para añadir libros -->
+    <section class="form">
+        <form action="" class="text-center">
+            <h4>nombre</h4>
+            <input v-model="nombre" @@keyup.enter="crearlibro" type="text" class="form-control" placeholder="Nombre">
+            <h4>Precio Venta</h4>
+            <input v-model="PrecioVenta" @@keyup.enter="crearlibro" type="number" name="PrecioVenta" placeholder="PrecioVenta" class="form-control">
+            <h4>Precio Compra</h4>
+            <input v-model="PrecioCompra" @@keyup.enter="crearlibro" type="number" name="PrecioCompra" placeholder="PrecioCompra" class="form-control">
+            <h4>Numero De Pagina</h4>
+            <input v-model="NumeroDePagina" @@keyup.enter="crearlibro" type="number" name="NumeroDePagina" placeholder="NumeroDePagina" class="form-control">
+            <!-- Botón para añadir -->
+            <br />
+            <input @@click="crearlibro" type="button" value="Añadir" class="btn btn-success">
+        </form>
+    </section>
+    <!-- Tabla donde se muestran los datos -->
+    <section class="data">
+        <caption>libros</caption>
+        <table class="table">
+            <thead>
+                <tr>
+
+
+                    <th scope="col">Nombre</th>
+                    <th scope="col">PrecioVenta</th>
+                    <th scope="col">PrecioCompra</th>
+                    <th scope="col">NumeroDePagina</th>
+
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+
+                <tr v-for="(libro, index) in libros">
+                    @*<td>{{ libro.id }}</td>*@
+                    <td>
+                        <span v-if="formActualizar && idActualizar == index">
+                            <!-- Formulario para actualizar -->
+                            <input v-model="nombreActualizar" type="text" class="form-control">
+                        </span>
+                        <span v-else>
+                            <!-- Dato nombre -->
+                            {{ libro.nombre }}
+                        </span>
+                    </td>
+                    <td>
+                        <span v-if="formActualizar && idActualizar == index">
+                            <!-- Formulario para actualizar -->
+                            <input v-model="PrecioVentaActualizar" type="text" class="form-control">
+                        </span>
+                        <span v-else>
+                            <!-- Dato PrecioVenta -->
+                            {{ libro.PrecioVenta }}
+                        </span>
+                    </td>
+                    <td>
+                        <span v-if="formActualizar && idActualizar == index">
+                            <!-- Formulario para actualizar -->
+                            <input v-model="PrecioCompraActualizar" type="text" class="form-control">
+                        </span>
+                        <span v-else>
+                            <!-- Dato PrecioVenta -->
+                            {{ libro.PrecioCompra }}
+                        </span>
+                    </td>
+                    <td>
+                        <span v-if="formActualizar && idActualizar == index">
+                            <!-- Formulario para actualizar -->
+                            <input v-model="NumeroDePaginaActualizar" type="text" class="form-control">
+                        </span>
+                        <span v-else>
+                            <!-- Dato PrecioVenta -->
+                            {{ libro.NumeroDePagina }}
+                        </span>
+                    </td>
+
+
+
+                    <td>
+                        <!-- Botón para guardar la información actualizada -->
+                        <span v-if="formActualizar && idActualizar == index">
+                            <button @@click="guardarActualizacion(index)" class="btn btn-success">Guardar</button>
+                        </span>
+                        <span v-else>
+                            <!-- Botón para mostrar el formulario de actualizar -->
+                            <button @@click="verFormActualizar(index)" class="btn btn-warning">Actualizar</button>
+                            <!-- Botón para borrar -->
+                            <button @@click="borrarlibro(index)" class="btn btn-danger">Borrar</button>
+                        </span>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </section>
+</div>
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        new Vue({
+            el: '#applibros',
+            data: {
+
+                nombre: '',
+                PrecioVenta: '',
+                PrecioCompra: '',
+                NumeroDePagina: '',
+
+                formActualizar: false,
+
+                idActualizar: -1,
+
+                nombreActualizar: '',
+                PrecioVentaActualizar: '',
+                PrecioCompraActualizar: '',
+                NumeroDePaginaActualizar: '',
+                libros: []
+            },
+            methods: {
+                crearlibro: function () {
+
+                    this.libros.push({
+                        id: + new Date(),
+                        nombre: this.nombre,
+                        PrecioVenta: this.PrecioVenta,
+                        PrecioCompra: this.PrecioCompra,
+                        NumeroDePagina: this.NumeroDePagina
+                    });
+                    // Vaciamos el formulario de añadir
+                    this.nombre = '';
+                    this.PrecioVenta = '';
+                    this.PrecioCompra = '';
+                    this.NumeroDePagina = '';
+                },
+                verFormActualizar: function (libro_id) {
+                    // Antes de mostrar el formulario de actualizar, rellenamos sus campos
+                    this.idActualizar = libro_id;
+                    this.nombreActualizar = this.libros[libro_id].nombre;
+                    this.PrecioVentaActualizar = this.libros[libro_id].PrecioVenta;
+                    this.PrecioCompraActualizar = this.libros[libro_id].PrecioCompra;
+                    this.NumeroDePaginaActualizar = this.libros[libro_id].NumeroDePagina;
+
+
+
+                    this.formActualizar = true;
+                },
+                borrarlibro: function (libro_id) {
+                    // Borramos de la lista
+                    this.libros.splice(libro_id, 1);
+                },
+                guardarActualizacion: function (libro_id) {
+                    // Ocultamos nuestro formulario de actualizar
+                    this.formActualizar = false;
+                    // Actualizamos los datos
+                    this.libros[libro_id].nombre = this.nombreActualizar;
+                    this.libros[libro_id].PrecioVenta = this.PrecioVentaActualizar;
+                    this.libros[libro_id].PrecioCompra = this.PrecioCompraActualizar;
+                    this.libros[libro_id].NumeroDePagina = this.NumeroDePaginaActualizar;
+                }
+            }
+        });
+    });
+</script>
